@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development projects
 - 🌱 I’m currently learning reactjs and express js
 - 💞️ I’m looking to collaborate on any kind of web apps
-- 📫 you can reach me via gmail: talhafayyaz1@gmail.com
+- 📫 you can reach me via gmail: iamtalhafayyaz1@gmail.com
 
 <!---
 TalhaFayyaz1/TalhaFayyaz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
